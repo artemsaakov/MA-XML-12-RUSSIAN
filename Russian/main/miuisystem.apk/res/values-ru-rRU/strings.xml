@@ -40,7 +40,7 @@
   <string name="cta_message_license">Используя этот продукт, вы принимаете наши Условия использования и Политику конфиденциальности.</string>
   <string name="cta_message_permission">Для нормальной работы этому приложению требуется %2$s.</string>
   <string name="cta_permission_and"> и</string>
-  <string name="cta_permission_delimiter">,</string>
+  <string name="cta_permission_delimiter">Разделение разрешений</string>
   <string name="cta_title">Условия использования</string>
   <string name="dance">Танец</string>
   <string name="daydream">Грезы</string>
